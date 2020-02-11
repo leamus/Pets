@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/game.qml</file>
+        <file>QML/Global.qml</file>
+        <file>QML/Logo.qml</file>
+        <file>QML/GameJS.js</file>
+        <file>QML/qmldir</file>
+        <file>QML/_Global/Particles/Particles1.qml</file>
+        <file>QML/_Global/GameItem.qml</file>
+        <file>QML/_Global/MsgBox.qml</file>
+        <file>QML/_Global/Button/ColorButton.qml</file>
+        <file>QML/_Global/Button/ImageButton.qml</file>
+        <file>QML/_Global/Line/Line.qml</file>
+        <file>QML/_Global/Popup/Mask.qml</file>
+        <file>QML/_Global/Popup/Popup.qml</file>
+        <file>QML/_Global/Progress/Progress.qml</file>
+        <file>QML/_Global/Button/ImageButton2.qml</file>
+        <file>QML/_Global/Global.js</file>
+        <file>QML/GameGlobal/GameData.qml</file>
+        <file>QML/GameGlobal/GamePos.qml</file>
+        <file>QML/GameGlobal/GameSettings.qml</file>
+        <file>QML/GameGlobal/GameResource.qml</file>
+        <file>QML/GameGlobal/GameConfig.qml</file>
+
+        <file>QML/Group/Group.qml</file>
+        <file>QML/Group/InGroup.qml</file>
+        <file>QML/GameUI.qml</file>
+        <file>QML/NormalUI.qml</file>
+        <file>QML/FightUI.qml</file>
+        <file>QML/DebugWindow.qml</file>
+        <file>QML/Login/Login.qml</file>
+        <file>QML/Register/Register.qml</file>
+
+        <file>QML/Game/Pet.qml</file>
+
+        <file>QML/Bear/Bear.qml</file>
+    </qresource>
+</RCC>
