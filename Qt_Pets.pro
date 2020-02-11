@@ -243,7 +243,11 @@ DISTFILES += \
     android/gradlew.bat \
     \
     android/src/cn/Leamus/MainActivity.java \
-    android/src/cn/Leamus/Module.java
+    android/src/cn/Leamus/Module.java \
+    QML.dat \
+    Res.dat \
+    Game.exe \
+    PetsD.exe
 
 
 # Additional import path used to resolve QML modules in Qt Creator's code model
